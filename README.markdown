@@ -20,9 +20,17 @@ Screenshots
 ![alt text](http://dl.dropbox.com/u/1124427/sehumanizedtime.png "SEHumanizedTime")
 
 
+Languages
+---------------------
+- Japanese
+- Chinese
+- German
+- Turkish
+
+
 Coming Soon
 ---------------------
-- German, French, Spanish and Italian language support.
+- French, Spanish and Italian language support.
 
 
 License
