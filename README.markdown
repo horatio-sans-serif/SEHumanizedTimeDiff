@@ -22,6 +22,7 @@ Screenshots
 
 Languages
 ---------------------
+- English
 - Japanese
 - Chinese
 - German
