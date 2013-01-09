@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'SEHumanizedTimeDiff'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.license = 'MIT'
   s.summary = 'An NSDate category to have humanly meaningful time intervals since todays date.'
   s.homepage = 'https://github.com/fictorial/SEHumanizedTimeDiff'
@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/fictorial/SEHumanizedTimeDiff.git', :tag => '0.0.2' }
   s.description = 'Localizations available for Chinese, Japanese, Turkish, English, and German.'
   s.source_files = 'SEHumanizedTime/*.{h,m}'
-  s.resources = 'SEHumanizedTime.bundle'
+  s.resources = 'SEHumanizedTime/SEHumanizedTime.bundle'
 
   s.frameworks = 'Foundation'
 end
