@@ -26,12 +26,13 @@ Languages
 - Japanese
 - Chinese
 - German
+- Spanish
 - Turkish
 
 
 Coming Soon
 ---------------------
-- French, Spanish and Italian language support.
+- French and Italian language support.
 
 
 License
